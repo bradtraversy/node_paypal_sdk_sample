@@ -1,0 +1,16 @@
+{
+  "name": "node_paypal_sample",
+  "version": "1.0.0",
+  "description": "Sample paypal app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "paypal-rest-sdk": "^1.7.1"
+  }
+}
